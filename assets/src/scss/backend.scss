@@ -1,0 +1,12 @@
+.suggestion-field-setting{
+    .suggestion-lists{
+        list-style:none;
+        .list-item{
+            display:block;
+            min-height:30px;
+            &.suggestion-list-holder{
+                background-color:#454545;
+            }
+        }
+    }
+}
